@@ -7,10 +7,9 @@ Unificar los datos de ventas diarias y stock para generar un informe actualizado
 
 ## Proceso
 1. **Carga de fuentes** desde Google Sheets.
-2. **Limpieza y transformación** de los datos con SQL (ver carpeta `/consultas_sql`).
-3. **Unión de tablas** mediante `LEFT JOIN` en BigQuery (archivo `join_patitas.sql`).
-4. **Filtrado y normalización** de campos clave (formato, calidad, mascota).
-5. **Visualización** de los resultados en Looker Studio.
+2. **Unión de tablas** mediante `LEFT JOIN` en BigQuery (archivo `join_patitas.sql`).
+3. **Filtrado y normalización** de campos clave (formato, calidad, mascota).
+4. **Visualización** de los resultados en Looker Studio.
 
 ## Resultados
 - Reporte semiautomático conectado a BigQuery.
