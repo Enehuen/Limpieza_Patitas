@@ -15,7 +15,7 @@ Unificar los datos de ventas diarias y stock para generar un informe actualizado
 - Reporte semiautomático conectado a BigQuery.
 - Integración completa de ventas y stock.
 - Dashboards dinámicos con filtros personalizados.
-![Visualización en Looker](Imagenes/ Informe_Patitas_page-0001.jpg)
+[![Visualización en Looker](Imagenes/ Informe_Patitas_page-0001.jpg)](https://github.com/Enehuen/Limpieza_Patitas/blob/main/Imagenes/Informe_Patitas_page-0001.jpg?raw=true)
 
 ## Herramientas
 - Google BigQuery  
