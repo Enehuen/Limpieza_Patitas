@@ -22,4 +22,4 @@ Unificar los datos de ventas diarias y stock para generar un informe actualizado
 - Google Sheets  
 - Looker Studio  
 
-![Limpieza de datos en BigQuery](Imagenes/ tabla_SQLJoin.png)
+![Limpieza de datos en BigQuery](https://github.com/Enehuen/Limpieza_Patitas/blob/main/Imagenes/tabla_SQLJoin.png?raw=true)
