@@ -7,9 +7,11 @@ Unificar los datos de ventas diarias y stock para generar un informe actualizado
 
 ## Proceso
 1. **Carga de fuentes** desde Google Sheets.
-2. **Unión de tablas** mediante `LEFT JOIN` en BigQuery (archivo `join_patitas.sql`).
-3. **Filtrado y normalización** de campos clave (formato, calidad, mascota).
-4. **Visualización** de los resultados en Looker Studio.
+![Tablas de datos en GoogleSheets](https://github.com/Enehuen/Limpieza_Patitas/blob/main/Imagenes/tabla_stock.png?raw=true)![Tablas de datos en GoogleSheets](https://github.com/Enehuen/Limpieza_Patitas/blob/main/Imagenes/tabla_ventas.png?raw=true)
+3. **Unión de tablas** mediante `LEFT JOIN` en BigQuery (archivo `join_patitas.sql`).
+![Limpieza de datos en BigQuery](https://github.com/Enehuen/Limpieza_Patitas/blob/main/Imagenes/tabla_SQLJoin.png?raw=true)
+4. **Filtrado y normalización** de campos clave (formato, calidad, mascota).
+5. **Visualización** de los resultados en Looker Studio.
 
 ## Resultados
 - Reporte semiautomático conectado a BigQuery.
@@ -22,4 +24,4 @@ Unificar los datos de ventas diarias y stock para generar un informe actualizado
 - Google Sheets  
 - Looker Studio  
 
-![Limpieza de datos en BigQuery](https://github.com/Enehuen/Limpieza_Patitas/blob/main/Imagenes/tabla_SQLJoin.png?raw=true)
+
