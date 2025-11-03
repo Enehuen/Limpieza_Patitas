@@ -25,7 +25,8 @@ El trabajo se centra en la consolidación, limpieza y unificación de tablas de 
 - Reporte semiautomático conectado a BigQuery.
 - Integración completa de ventas y stock.
 - Dashboards dinámicos con filtros personalizados.
-[![Visualización en Looker](https://github.com/Enehuen/Limpieza_Patitas/blob/main/Imagenes/Informe_Patitas_page-0001.jpg?raw=true)
+- [`Informe Looker`](https://lookerstudio.google.com/s/jG9m3b33FUs)
+![Visualización en Looker](https://github.com/Enehuen/Limpieza_Patitas/blob/main/Imagenes/Informe_Patitas_page-0001.jpg?raw=true)
 
 ## Privacidad y alcance de los datos.
 El modelo de datos utilizado en este proyecto se basa en **información real de ventas y stock**, pero ha sido **modificado para proteger la privacidad comercial** del negocio.
